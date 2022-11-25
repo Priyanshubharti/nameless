@@ -1,0 +1,1 @@
+Here is the result: I am from first text file. , I am from second text file.
